@@ -1,0 +1,10 @@
+* cl-fixtures
+
+Fixtures for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/libre-man/cl-fixtures.git   |
+| commit  | 1a25767  |
+| systems | cl-fixtures |
+|---------+-------------------------------------------|
+
